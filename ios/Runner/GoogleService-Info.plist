@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87946101671-gc1a9t03i5das9aegv8io6gdmg0ck1jm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87946101671-gc1a9t03i5das9aegv8io6gdmg0ck1jm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>87946101671-b4tq7ao5nsm8ao8m967b6pnjidnjud9i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCm5o0Yc3ZVtH2IvgTPJXD8meGl3ERupZA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87946101671</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.houseplantssafeforcats</string>
+	<key>PROJECT_ID</key>
+	<string>houseplants-safe-for-cats</string>
+	<key>STORAGE_BUCKET</key>
+	<string>houseplants-safe-for-cats.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87946101671:ios:d287e35cf4fc5d7a6eac82</string>
+</dict>
+</plist>

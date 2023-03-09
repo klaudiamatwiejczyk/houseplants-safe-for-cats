@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "87946101671",
+    "project_id": "houseplants-safe-for-cats",
+    "storage_bucket": "houseplants-safe-for-cats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87946101671:android:b5e140dd87d874036eac82",
+        "android_client_info": {
+          "package_name": "com.mycompany.houseplantssafeforcats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87946101671-b4tq7ao5nsm8ao8m967b6pnjidnjud9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.houseplantssafeforcats",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "87946101671-vdbhof5q7fna041nr9lg9qjnemtsm55d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU8ITLAqcHcPbdNLJlslOAkk9WqT4gUmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87946101671-vdbhof5q7fna041nr9lg9qjnemtsm55d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87946101671-gc1a9t03i5das9aegv8io6gdmg0ck1jm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.houseplantssafeforcats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
