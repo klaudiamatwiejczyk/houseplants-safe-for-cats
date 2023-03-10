@@ -169,7 +169,7 @@ class _UstawieniaWidgetState extends State<UstawieniaWidget> {
                   padding:
                       EdgeInsetsDirectional.fromSTEB(12.0, 12.0, 12.0, 12.0),
                   child: Text(
-                    'Cześć!\nDzięki za pobranie mojej aplikacji :)\n\nMoja miłość do roślin domowych została mocno zweryfikowana  w momencie w którym w naszym domu pojawił się kot. Pamiętam, że byłam mocno niepocieszona, że muszę pozbyć się z domu mojej ukochanej monstery, skrzydłokwiatu, sansewierii i zamiokulkasa. Do czasu aż nie odkryłam roślin nietoksycznych dla zwierząt :) \nNasza rodzina powiększyła się jeszcze o dwa koty, a zamiast 4 roślin w mieszkaniu mam ich teraz ponad 40. Mam nadzieję, że uda ci się znaleźć coś dla siebie, bo rośliny bezpieczne dla zwierząt to nie tylko storczyki i paprotki.\n\n',
+                    'Cześć!\nDzięki za pobranie mojej aplikacji :)\n\nMoja miłość do roślin domowych została mocno zweryfikowana  w momencie w którym w naszym domu pojawił się kot. Pamiętam, że byłam mocno niepocieszona, że muszę pozbyć się z domu mojej ukochanej monstery, skrzydłokwiatu, sansewierii i zamiokulkasa. Do czasu aż nie odkryłam roślin nietoksycznych dla zwierząt :) \nNasza rodzina powiększyła się jeszcze o dwa koty, a zamiast 4 roślin w mieszkaniu mam ich teraz ponad 40.\n\n Mam nadzieję, że uda ci się znaleźć coś dla siebie, bo rośliny bezpieczne dla zwierząt to nie tylko storczyki i paprotki.',
                     style: FlutterFlowTheme.of(context).bodyText1,
                   ),
                 ),

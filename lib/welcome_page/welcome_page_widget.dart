@@ -67,7 +67,7 @@ class _WelcomePageWidgetState extends State<WelcomePageWidget>
             ClipRRect(
               borderRadius: BorderRadius.circular(8.0),
               child: Image.asset(
-                'assets/images/ed2cl_f.png',
+                'assets/images/f.png',
                 width: 317.2,
                 height: 233.1,
                 fit: BoxFit.cover,

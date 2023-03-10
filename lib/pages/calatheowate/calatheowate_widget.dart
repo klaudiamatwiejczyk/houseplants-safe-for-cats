@@ -297,7 +297,7 @@ class _CalatheowateWidgetState extends State<CalatheowateWidget> {
                         ),
                         Padding(
                           padding: EdgeInsetsDirectional.fromSTEB(
-                              12.0, 12.0, 12.0, 12.0),
+                              8.0, 8.0, 8.0, 8.0),
                           child: FFButtonWidget(
                             onPressed: () async {
                               context.pushNamed('Rodzajeroslin');
@@ -307,7 +307,7 @@ class _CalatheowateWidgetState extends State<CalatheowateWidget> {
                               width: 248.7,
                               height: 61.1,
                               padding: EdgeInsetsDirectional.fromSTEB(
-                                  12.0, 12.0, 12.0, 12.0),
+                                  8.0, 8.0, 8.0, 8.0),
                               iconPadding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 0.0, 0.0, 0.0),
                               color: Color(0xF333723C),
